@@ -1,1 +1,5 @@
-pip install matplotlib
+matplotlib
+numpy
+pandas
+plotly
+streamlit
